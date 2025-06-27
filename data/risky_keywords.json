@@ -1,0 +1,7 @@
+ {
+    "termination": ["terminate", "termination", "notice period"],
+    "indemnity": ["indemnify", "hold harmless", "liabilities"],
+    "penalty": ["penalty", "damages", "compensation"],
+    "non-compete": ["non-compete", "restrict", "competition"],
+    "confidentiality": ["confidential", "non-disclosure", "disclose"]
+}
