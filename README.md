@@ -13,7 +13,6 @@ A web app that lets users upload legal contracts (PDF) and automatically detects
 - Rule-based NLP for clause classification
 
 ## 📄 Try It Online
-👉 [Add your Streamlit Cloud link here after deploying]
 
 ## 👩‍⚖️ Sample Input
 _"The Employee shall indemnify the Company from all liabilities."_  
